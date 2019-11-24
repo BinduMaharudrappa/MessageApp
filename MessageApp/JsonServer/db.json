@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Anirudh",
+      "email": "anirudh@gmail.com",
+      "image": "avatar.jepg"
+    },
+    {
+      "id": "2",
+      "name": "Bindu",
+      "email": "bindu@gmail.com",
+      "image": "girl.png"
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "email": "john@gmail.com",
+      "image": "avatar_2.jepg"
+    },
+    {
+      "id": "4",
+      "name": "Mike",
+      "email": "mike@gmail.com",
+      "image": "boy.png"
+    },
+    {
+      "id": "5",
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "image": "girl_1.png"
+    },
+    {
+      "id": "6",
+      "name": "Anusha",
+      "email": "anusha@gmail.com",
+      "image": "girl_2.png"
+    }
+    
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "sender": "Priya",
+      "body": "You are invited to a party at office",
+      "receiver": "Bindu",
+      "time": "12:30"
+    },
+    {
+      "id": "2",
+      "sender": "Bindu",
+      "body": "Hi",
+      "receiver": "Anirudh",
+      "time": "14:30"
+    },
+    {
+      "body": "Hi",
+      "time": "2019-10-01 00:30",
+      "sender": "Anisha",
+      "receiver": "Raaj",
+      "id": "1hF_1xj"
+    },
+    {
+      "receiver": "Raaj",
+      "time": "2019-10-01 00:31",
+      "body": "How are you?",
+      "sender": "Anisha",
+      "id": "8KZDlEe"
+    },
+    {
+      "sender": "Raaj",
+      "time": "2019-10-01 00:31",
+      "body": "Am good.. Thank you ",
+      "receiver": "Anisha",
+      "id": "E50azIE"
+    },
+    {
+      "time": "2019-10-01 00:32",
+      "receiver": "Anisha",
+      "body": "How are you?",
+      "sender": "Raaj",
+      "id": "i6PbsoE"
+    },
+    {
+      "sender": "Anisha",
+      "receiver": "Raaj",
+      "time": "2019-10-01 00:38",
+      "body": "Hi",
+      "id": "FQk07-S"
+    },
+    {
+      "time": "2019-10-01 00:44",
+      "body": "Hi",
+      "sender": "Jack",
+      "receiver": "Julia",
+      "id": "CJf2af6"
+    },
+    {
+      "sender": "Julia",
+      "time": "2019-10-01 00:45",
+      "body": "Hello",
+      "receiver": "Jack",
+      "id": "k5oEohQ"
+    },
+    {
+      "sender": "Jack",
+      "body": "Hey",
+      "time": "2019-10-01 00:45",
+      "receiver": "Julia",
+      "id": "9g_W30R"
+    },
+    {
+      "time": "2019-10-01 00:45",
+      "sender": "Jack",
+      "receiver": "Julia",
+      "body": "How are you?",
+      "id": "_9y_PTI"
+    },
+    {
+      "body": "Am good, how are you?",
+      "receiver": "Jack",
+      "time": "2019-10-01 00:45",
+      "sender": "Julia",
+      "id": "gK2E40Q"
+    },
+    {
+      "receiver": "Julia",
+      "body": "Good.. thank you",
+      "time": "2019-10-01 00:45",
+      "sender": "Jack",
+      "id": "2fp3ah5"
+    },
+    {
+      "body": "See u",
+      "time": "2019-10-01 00:46",
+      "sender": "Julia",
+      "receiver": "Jack",
+      "id": "kjTF8TH"
+    },
+    {
+      "time": "2019-10-01 00:49",
+      "body": "Hey, Whats up?",
+      "sender": "Jack",
+      "receiver": "Julia",
+      "id": "ABNA0E7"
+    },
+    {
+      "sender": "Julia",
+      "time": "2019-10-01 00:49",
+      "body": "Hey, how are you?",
+      "receiver": "Jack",
+      "id": "9FcHzUj"
+    },
+    {
+      "body": "Am good.. are you invted for party tonight?",
+      "receiver": "Julia",
+      "sender": "Jack",
+      "time": "2019-10-01 00:49",
+      "id": "S28ouTX"
+    },
+    {
+      "time": "2019-10-01 00:49",
+      "body": "Yes.. see u at party!",
+      "receiver": "Jack",
+      "sender": "Julia",
+      "id": "Z4wYSmv"
+    }
+  ]
+}
